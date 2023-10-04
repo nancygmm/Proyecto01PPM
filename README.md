@@ -30,13 +30,13 @@ universitarios está aquí para apoyarlos en su camino hacia el éxito académic
 todos los estudiantes de la UVG merecen la oportunidad de alcanzar sus metas educativas, y
 estamos comprometidos a proporcionarles el apoyo adecuado para lograrlo.</p>
 <p>
-<p>##¿A quién va dirigida el app?
+<p>¿A quién va dirigida el app?
 El app va directamente dirigida hacia todos los estudiantes de la UVG que deseen apoyarse
 con tutorías para su rendimiento académico, por otra parte, también va dirigida hacia
 estudiantes que quieran expresar su potencial académico mediante la enseñanza de materias
 que dominen.</p>
 <p>
-<p>##Research de la competencia:
+<p>Research de la competencia:
 Como ya se mencionó, ya existe un sistema de tutorías dentro de la UVG, sin embargo, no
 existe una app o interfaz dirigida específicamente para estudiantes que estén en busca de
 tutores. Existe un apartado para este tema en la aplicación de UVG+ pero este solo presenta
