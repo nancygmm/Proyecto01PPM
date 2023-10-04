@@ -31,6 +31,7 @@ El app va directamente dirigida hacia todos los estudiantes de la UVG que deseen
 con tutorías para su rendimiento académico, por otra parte, también va dirigida hacia
 estudiantes que quieran expresar su potencial académico mediante la enseñanza de materias
 que dominen.
+
 Research de la competencia:
 Como ya se mencionó, ya existe un sistema de tutorías dentro de la UVG, sin embargo, no
 existe una app o interfaz dirigida específicamente para estudiantes que estén en busca de
